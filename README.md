@@ -23,8 +23,7 @@ _Failure is a perfect opportunity to learn_
 
 _-Neil deGrasse Tyson_
 
-> [!IMPORTANT]
 > Feel free to check out my [GitHub Profile](https://github.com/f-taveras)
 
 
-[^1]: Never forget we are star dust. Within each one of us lies the same particles that have created the universe.
+[^2]: Never forget we are star dust. Within each one of us lies the same particles that have created the universe.
