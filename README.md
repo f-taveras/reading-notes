@@ -11,11 +11,11 @@ Is to have your mind oriented to the learning process. This theory suggest a ser
 
 * Trust the process:
   
-It might not look like it right now, but you will get there if you keep going.
+_It might not look like it right now, but you will get there if you keep going._
 
 * Don't fear failure:
   
-Failure is a perfect opportunity to learn
+_Failure is a perfect opportunity to learn_
 
 * Embrace the unknown:
   
