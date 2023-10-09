@@ -25,5 +25,5 @@ _-Neil deGrasse Tyson_
 
 > Feel free to check out my [GitHub Profile](https://github.com/f-taveras)
 
-
+[]()
 [^2]: Never forget we are star dust. Within each one of us lies the same particles that have created the universe.
