@@ -10,15 +10,6 @@ Hello folks! I am Felix! I live in New York and I love technology so this class 
 
 Never forget we are stardust. Within each one of us lies the same particles that have created the universe 
 
-## Table of content :
-
-### Code 102 Reading notes:
-
-* [Motivation - Grouth Mindset](grouthMindset.md)
-* [Markdown Notes](class1notes.md)
-* [The Coder Computer's notes](theCoderComputerNotes.md)
-* [To be updated...](holder.md)
-* [To be updated...](holder.md)
-* [To be updated...](holder.md)
-* [To be updated...](holder.md)
-* [To be updated...](holder.md)
+## Class notes by module:
+* [Code 102](/home/sagitario/projects/courses/102/reading-notes/102TableOfContent.md)
+* [Code 201](/home/sagitario/projects/courses/201/classNotes/classNotes.md)

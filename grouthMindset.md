@@ -1,3 +1,4 @@
+<sub>Think you might be in the wrong place? [Go home!](../../102/reading-notes/reading-notes/README.md)</sub>
 ### What grouth mindset means to me
 ![Grouth mindset](mindset.png)
 
