@@ -27,3 +27,5 @@ _-Neil deGrasse Tyson_
 
 []()
 [^2]: Never forget we are star dust. Within each one of us lies the same particles that have created the universe.
+
+[Markdown Notes](class1notes.md)
