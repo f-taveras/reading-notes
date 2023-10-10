@@ -1,32 +1,24 @@
-# Journal entries
+# Welcome
 
-This is will be a repository holding the readings for my Code Fellows class.
+Hello folks! I am Felix! I live in New York and I love technology so this class will make it official! Fun fact! I am a science aficionado!
 
-### What grouth mindset means to me
-![Grouth mindset](mindset.png)
+## This is will be a repository holding the readings for my Code Fellows class.
 
-Is to have your mind oriented to the learning process. This theory suggest a series of guidelines to help you keep a possitive and effective dispossition to learn. The key goal is to trust the process and you will be able to get to your goal.
 
-### Always remember:
-
-* Trust the process:
-  
-_It might not look like it right now, but you will get there if you keep going._
-
-* Don't fear failure:
-  
-_Failure is a perfect opportunity to learn_
-
-* Embrace the unknown:
-  
->“I know of no time in human history where ignorance was better than knowledge.”
-
-_-Neil deGrasse Tyson_
 
 > Feel free to check out my [GitHub Profile](https://github.com/f-taveras)
 
-[]()
-[^2]: Never forget we are stardust. Within each one of us lies the same particles that have created the universe.
+Never forget we are stardust. Within each one of us lies the same particles that have created the universe 
 
+## Table of content :
+
+### Code 102 Reading notes:
+
+* [Motivation - Grouth Mindset](grouthMindset.md)
 * [Markdown Notes](class1notes.md)
 * [The Coder Computer's notes](theCoderComputerNotes.md)
+* [To be updated...](holder.md)
+* [To be updated...](holder.md)
+* [To be updated...](holder.md)
+* [To be updated...](holder.md)
+* [To be updated...](holder.md)
