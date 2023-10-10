@@ -4,7 +4,7 @@
 * [Motivation - Grouth Mindset](./grouthMindset.md)
 * [Markdown Notes](classNotes.md)
 * [The Coder Computer's notes](theCoderComputerNotes.md)
-* [To be updated...](holder.md)
+* [Wireframing and Design](read4Notes.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
