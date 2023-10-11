@@ -1,4 +1,4 @@
-<sub>Think you might be in the wrong place? [Go home!](README.md)</sub>
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
 ### What is Markdown?
 Markdown is a simple markup language that enables you to incorporate formatting elements into plain text documents.
 ### Why do we use Markdown?
