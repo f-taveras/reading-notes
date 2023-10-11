@@ -6,7 +6,7 @@
 * [The Coder Computer's notes](theCoderComputerNotes.md)
 * [Wireframing and Design](read4Notes.md)
 * [CSS](cssNotes.md)
-* [To be updated...](holder.md)
+* [Git](gitNotes.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
 
