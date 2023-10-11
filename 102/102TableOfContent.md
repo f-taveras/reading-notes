@@ -5,7 +5,7 @@
 * [Markdown Notes](classNotes.md)
 * [The Coder Computer's notes](theCoderComputerNotes.md)
 * [Wireframing and Design](read4Notes.md)
-* [To be updated...](holder.md)
+* [CSS](cssNotes.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
