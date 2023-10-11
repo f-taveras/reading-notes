@@ -1,4 +1,4 @@
-<sub>Think you might be in the wrong place? [Go home!](README.md)</sub>
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
 ### Code 102 Reading notes:
 
 * [Motivation - Grouth Mindset](./grouthMindset.md)

@@ -1,4 +1,4 @@
-<sub>Think you might be in the wrong place? [Go home!](../../102/reading-notes/reading-notes/README.md)</sub>
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
 ### What are four important features to look for in a text editor?
 * Code completion
 * Colored Syntax
