@@ -8,7 +8,7 @@
 * [CSS](cssNotes.md)
 * [Git](gitNotes.md)
 * [JavaScript - Part I](jsNotes.md) | [JavaScript - Part II](class7Notes.md)
-* [To be updated...](holder.md)
+* [Operators](class8Notes.md)
 
 
 
