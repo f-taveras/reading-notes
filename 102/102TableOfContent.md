@@ -7,7 +7,7 @@
 * [Wireframing and Design](read4Notes.md)
 * [CSS](cssNotes.md)
 * [Git](gitNotes.md)
-* [To be updated...](holder.md)
+* [JavaScript](jsNotes.md)
 * [To be updated...](holder.md)
 
 

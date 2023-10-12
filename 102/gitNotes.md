@@ -16,13 +16,4 @@ git commit -m "Your commit message here" to commit staged changes.
 ### What is the command to send your changed files to Github?
 git push -u origin master to push changes to a remote repository, assuming you've set up a remote named "origin."
 
-
-Version Control: 
-
-Cloning in Git:
-
-Command to Track and Stage Files: 
-
-Command to Take a Snapshot of Your Changed Files: git commit -m "Your commit message here" to commit staged changes.
-
-Command to Send Your Changed Files to GitHub: 
+<sub>Information gathered using ChatGPT</sub>
