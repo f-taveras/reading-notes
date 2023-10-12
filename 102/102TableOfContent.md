@@ -7,7 +7,7 @@
 * [Wireframing and Design](read4Notes.md)
 * [CSS](cssNotes.md)
 * [Git](gitNotes.md)
-* [JavaScript](jsNotes.md)
+* [JavaScript - Part I](jsNotes.md) | [JavaScript - Part II](class7Notes.md)
 * [To be updated...](holder.md)
 
 

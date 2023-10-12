@@ -11,4 +11,5 @@ To declare a variable in JavaScript is to formally create a named storage space 
 ### What is information received from the user called?
  In JavaScript, "user input" or "user data" refers to the information received from individuals interacting with a web application. This input can be gathered through various mechanisms, including input fields, prompts, forms, or user interactions with a web page. Incorporating user input enhances the interactivity and functionality of web-based applications.
 
+
 <sub>Information gathered using ChatGPT</sub>
