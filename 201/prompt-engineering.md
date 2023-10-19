@@ -8,6 +8,8 @@ __User__
 __ChatGPT__
 
 > Certainly! __ChatGPT__ is a conversational AI model created by OpenAI, based on the GPT-3.5 architecture. It's designed to understand and generate human-like text responses. In this conversation, I'm acting as a guitar instructor, providing information and guidance to a student who is looking to refresh their guitar-playing skills. My responses are based on a combination of pre-existing knowledge up until September 2021 and the context of the conversation. If you have any further questions or need assistance with anything else, feel free to ask!
+
+
 ## Conversation with ChatGPT:
 
 __User__
