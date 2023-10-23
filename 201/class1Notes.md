@@ -1,12 +1,16 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 # Introduction to HTML
 
 > Read the beginning of Getting Started with HTML. Start from the beginning and read through section “Anatomy of an HTML document”.
 
 ### What is an HTML attribute?
+
 An HTML attribute is extra information or settings added to an HTML element. It is defined within the element's opening tag and consists of a name and a value.
 
 
 ### Describe the Anatomy of an HTMl element.
+
 * __Opening Tag:__ It starts an HTML element and includes the element's name.
 * __Attributes:__ Optional settings in the opening tag.
 * __Content:__ The actual data or sub-elements inside the element.
