@@ -3,7 +3,7 @@
 ## Notes for module 201
 * [AI and Prompt Ingeneering](prompt-engineering.md)
 * [Introduction to HTML](class1Notes.md)
-* [To be updated...](holder.md)
+* [Intro to HTML - Part II](class2Notes.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
