@@ -76,6 +76,6 @@ The purpose of an "else if" statement is to provide an alternative condition to 
 ### What is the difference between the logical operator && and ||?
 
 * __&& (AND):__ It returns true only if both operands are true. If any of the operands is false, the result is false.
-* __|| (OR):__ It returns true if at least one of the operands is true. If both operands are false, the result is false.
+* __\|| (OR):__ It returns true if at least one of the operands is true. If both operands are false, the result is false.
 
 <sub>Information gathered using ChatGPT</sub>
