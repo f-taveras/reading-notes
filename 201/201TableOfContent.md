@@ -4,7 +4,7 @@
 * [AI and Prompt Ingeneering](prompt-engineering.md)
 * [Introduction to HTML](class1Notes.md)
 * [Intro to HTML - Part II](class2Notes.md)
-* [To be updated...](holder.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](class3Notes.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
