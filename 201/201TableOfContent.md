@@ -5,7 +5,7 @@
 * [Introduction to HTML](class1Notes.md)
 * [Intro to HTML - Part II](class2Notes.md)
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](class3Notes.md)
-* [To be updated...](holder.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](class4Notes.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
 * [To be updated...](holder.md)
