@@ -42,7 +42,7 @@ Precise placement, layering, overlap, and independence from other elements.
 
 * __Parameter:__ A variable in the function declaration that acts as a placeholder for the data the function will receive when it's called.
 
-*__Argument:__ The actual data or value that you provide when calling the function, replacing the parameters to perform the function's task.
+* __Argument:__ The actual data or value that you provide when calling the function, replacing the parameters to perform the function's task.
 
 
 ### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
