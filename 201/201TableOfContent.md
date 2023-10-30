@@ -8,7 +8,7 @@
 * [HTML Links, JS Functions, and Intro to CSS Layout](class4Notes.md)
 * [Readings: Images, Color, Text](class5Notes.md)
 * [Problem Domain, Objects, and the DOM](class6Notes.md)
-* [To be updated...](../102/holder.md)
+* [Object-Oriented Programming, HTML Tables](class7Notes.md)
 * [To be updated...](../102/holder.md)
 * [To be updated...](../102/holder.md)
 * [To be updated...](../102/holder.md)
