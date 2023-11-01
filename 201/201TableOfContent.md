@@ -9,7 +9,7 @@
 * [Readings: Images, Color, Text](class5Notes.md)
 * [Problem Domain, Objects, and the DOM](class6Notes.md)
 * [Object-Oriented Programming, HTML Tables](class7Notes.md)
-* [To be updated...](../102/holder.md)
+* [CSS Layout](class8Notes.md)
 * [To be updated...](../102/holder.md)
 * [To be updated...](../102/holder.md)
 * [To be updated...](../102/holder.md)
