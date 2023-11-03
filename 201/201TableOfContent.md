@@ -11,7 +11,7 @@
 * [Object-Oriented Programming, HTML Tables](class7Notes.md)
 * [CSS Layout](class8Notes.md)
 * [Forms and JS Events](class9Notes.md)
-* [To be updated...](../102/holder.md)
+* [Debugging](class10Notes.md)
 * [To be updated...](../102/holder.md)
 * [To be updated...](../102/holder.md)
 * [2 b updated...](../102/holder.md)
