@@ -1,6 +1,7 @@
 <sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
 
 ## Notes for module 201
+
 * [AI and Prompt Ingeneering](prompt-engineering.md)
 * [Introduction to HTML](class1Notes.md)
 * [Intro to HTML - Part II](class2Notes.md)
@@ -12,6 +13,7 @@
 * [CSS Layout](class8Notes.md)
 * [Forms and JS Events](class9Notes.md)
 * [Debugging](class10Notes.md)
+* [Audio, Video, Images](class11Notes.md)
 * [To be updated...](../102/holder.md)
 * [To be updated...](../102/holder.md)
 * [2 b updated...](../102/holder.md)
