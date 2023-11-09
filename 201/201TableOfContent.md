@@ -15,6 +15,6 @@
 * [Debugging](class10Notes.md)
 * [Audio, Video, Images](class11Notes.md)
 * [To be updated...](../102/holder.md)
-* [Local Storage and How To Use It On Websites](class13Notes.md.md)
-* [2 b updated...](../102/holder.md)
+* [Local Storage and How To Use It On Websites](class13Notes.md)
+* [CSS Transitions & Animations](class14Notes.md)
 * [To be updated...](../102/holder.md)
