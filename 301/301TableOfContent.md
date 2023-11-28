@@ -3,7 +3,7 @@
 ## Notes for module 301
 
 * [Introduction to React and Components](class1Notes.md)
-* [Coming Soon...](holder.md)
+* [State and Props](class2Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)

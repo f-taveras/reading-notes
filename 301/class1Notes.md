@@ -1,4 +1,5 @@
 <sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 ### What is a “component”?
 
 A _"component"_ refers to a modular, self-contained, and reusable unit of software that encapsulates a set of related functionalities. Components are designed to be easily integrated into larger systems or applications.
@@ -67,3 +68,5 @@ Example: ```<p>{propValue}</p>```
 * __Updating Props:__ If the parent component's state changes, and it re-renders, the new values of props are passed down to the child component.
 
 * __Top-Down Data Flow:__ React follows a top-down data flow, where the data is passed from higher-level components to lower-level components through props.
+
+<sub>Information gathered using ChatGPT</sub>
