@@ -1,4 +1,5 @@
 <sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 ### Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 
 Render happens first

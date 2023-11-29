@@ -4,7 +4,7 @@
 
 * [Introduction to React and Components](class1Notes.md)
 * [State and Props](class2Notes.md)
-* [Coming Soon...](holder.md)
+* [Passing Functions as Props](class3Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
