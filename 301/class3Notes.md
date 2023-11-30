@@ -105,31 +105,4 @@ He passes the function as a prop and then attaches the handleClick to the onClic
 
 creating a function inside the parent component that takes a callback, which is the function we need to pass from the child component
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <sub>Information gathered using ChatGPT</sub>
