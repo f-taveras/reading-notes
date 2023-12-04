@@ -6,7 +6,7 @@
 * [State and Props](class2Notes.md)
 * [Passing Functions as Props](class3Notes.md)
 * [React and Forms](class4Notes.md)
-* [Coming Soon...](holder.md)
+* [Putting it all together](class5Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)

@@ -34,24 +34,4 @@ Answer:
 console.log(x === y ? true : false);
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <sub>Information gathered using ChatGPT</sub>
