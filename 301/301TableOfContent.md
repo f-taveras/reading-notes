@@ -8,7 +8,7 @@
 * [React and Forms](class4Notes.md)
 * [Putting it all together](class5Notes.md)
 * [REST](class6Notes.md)
-* [Coming Soon...](holder.md)
+* [Node.js](class7Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
