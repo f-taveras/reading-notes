@@ -9,7 +9,7 @@
 * [Putting it all together](class5Notes.md)
 * [REST](class6Notes.md)
 * [Node.js](class7Notes.md)
-* [Coming Soon...](holder.md)
+* [APIs](class8Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
