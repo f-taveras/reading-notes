@@ -26,3 +26,4 @@ Used to update a resource or create a new resource if it does not exist. It repl
 ### What does PATCH do?
 
 Used to apply partial modifications to a resource. It is used when you want to apply partial updates to a resource without replacing the entire resource.
+<sub>Information gathered using ChatGPT</sub>

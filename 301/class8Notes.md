@@ -46,3 +46,4 @@ A successful POST request returns a status code of __201__ Created if a new reso
 ### What status code does a successful DELETE request return?
 
 A successful __DELETE__ request returns a status code of __204__ No Content to indicate that the resource has been successfully deleted.
+<sub>Information gathered using ChatGPT</sub>

@@ -50,3 +50,4 @@ In my experience, Knowledge Sharing has been the most beneficial aspect of pair 
 ### How does pair programming work?
 
 Two roles - the __"Driver"__ actively codes, while the __"Navigator"__ reviews, strategizes, and suggests improvements. Regular role switches and constant communication ensure efficient collaboration.
+<sub>Information gathered using ChatGPT</sub>
