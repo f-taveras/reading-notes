@@ -12,7 +12,7 @@
 * [APIs](class8Notes.md)
 * [Functional Programming](class9Notes.md)
 * [In memory storage](class10Notes.md)
-* [Coming Soon...](holder.md)
+* [MongoDB and Mongoose](class11Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
