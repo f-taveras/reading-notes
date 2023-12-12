@@ -13,7 +13,7 @@
 * [Functional Programming](class9Notes.md)
 * [In memory storage](class10Notes.md)
 * [MongoDB and Mongoose](class11Notes.md)
-* [Coming Soon...](holder.md)
+* [CRUD](class12Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
