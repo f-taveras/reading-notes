@@ -14,6 +14,6 @@
 * [In memory storage](class10Notes.md)
 * [MongoDB and Mongoose](class11Notes.md)
 * [CRUD](class12Notes.md)
-* [Coming Soon...](holder.md)
+* [More CRUD](class13Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
