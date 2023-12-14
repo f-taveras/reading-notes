@@ -15,5 +15,5 @@
 * [MongoDB and Mongoose](class11Notes.md)
 * [CRUD](class12Notes.md)
 * [More CRUD](class13Notes.md)
-* [Coming Soon...](holder.md)
+* [Diversity & Inclusion in the Tech Industry](class14Notes.md)
 * [Coming Soon...](holder.md)
