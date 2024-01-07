@@ -1,8 +1,5 @@
 <sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
 
-
-
-
 ### What is OAuth?
 
 OAuth is an open standard for access delegation commonly used for secure communication between applications. It allows a user to grant a third-party application limited access to their resources without exposing their credentials (e.g., username and password). OAuth is widely used for enabling secure authentication and authorization in various scenarios, especially in the context of web and mobile applications.

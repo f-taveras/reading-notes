@@ -2,19 +2,15 @@
 
 ## Notes for module 401
 <details>
-<summary>__Pre-Work__</summary>
+<summary>Pre-Work</summary>
 
-   - [Linux Command Line]()
+   - <a href="/401/commandLine.md">Command Line</a>
 
-<details><summary><a href="commandLine.md">Hi</a></summary>
-hi
-
-</details>
 </details>
 
 <hr>
 
-* [Coming Soon...](holder.md)
+* [Topic](class1Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
