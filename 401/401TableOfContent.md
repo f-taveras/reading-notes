@@ -7,7 +7,6 @@
    - [Linux Command Line]()
 
 <details><summary><a href="commandLine.md">Hi</a></summary>
-
 hi
 
 </details>
