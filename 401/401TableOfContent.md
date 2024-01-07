@@ -2,9 +2,9 @@
 
 ## Notes for module 401
 <details>
-<summary>Pre-Work</summary>
+<summary>__Pre-Work__</summary>
 
->   - [Linux Command Line](commandLine.md)
+   - [Linux Command Line](commandLine.md)
 
 </details>
 
