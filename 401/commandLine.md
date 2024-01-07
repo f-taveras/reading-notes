@@ -1,6 +1,5 @@
 # Terminal Commands
 
-
 * __The Command Line:__ This section introduces the concept of a command line or terminal, which is a text-based interface to the system where commands are entered via keyboard and feedback is provided in text form. The tutorial emphasizes experimenting with multiple command lines open for different tasks and covers the basics of command line prompts, commands, and output​​.
 
 * __Basic Navigation:__ This part delves into file system navigation, explaining the use of paths _(absolute and relative)_, and commands like pwd, ls, and cd. It also introduces concepts such as the home directory __(~)__, current directory __(.)__, and parent directory __(..)__​​.
