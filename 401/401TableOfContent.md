@@ -4,7 +4,7 @@
 <details>
 <summary>Pre-Work</summary>
 
-   - <a href="/401/commandLine.md">Command Line</a>
+   - <a href="/reading-notes/401/commandLine.md">Command Line</a>
 
 </details>
 
