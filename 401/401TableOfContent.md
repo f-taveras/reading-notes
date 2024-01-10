@@ -14,7 +14,7 @@
 
 * [Topic](class1Notes.md)
 * [Testing and Modules](class2Notes.md)
-* [Coming Soon...](holder.md)
+* [FileIO & Exceptions](class3Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
