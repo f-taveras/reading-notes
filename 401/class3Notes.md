@@ -1,3 +1,4 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
 ### What is the purpose of the _‘with’_ statement when opening a file in Python, and how does it help manage resources while reading and writing files?
 
 The __'with'__ statement in Python is used when opening files to ensure proper resource management, specifically for file handling. It creates a context where the file is automatically opened and closed, ensuring that the file is closed properly when you are done with it or if an exception occurs. This helps in preventing resource leaks and makes your code cleaner and more readable.
@@ -51,3 +52,5 @@ except ZeroDivisionError:
 finally:
     print("Execution completed.")
 ```
+
+<sub>Information modeled using ChatGPT</sub>
