@@ -12,7 +12,7 @@
 <hr>
 
 * [Topic](class1Notes.md)
-* [Coming Soon...](holder.md)
+* [Testing and Modules](class2Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)

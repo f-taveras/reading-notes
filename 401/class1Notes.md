@@ -29,3 +29,15 @@
 ## After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity.
 
    In summary, time complexity and space complexity are both about efficiency, but they focus on different resources: time and memory, respectively. Understanding both is crucial for developing algorithms that are not only fast but also efficient in terms of resource usage. This understanding enables programmers and computer scientists to make informed choices about which algorithms to use based on the context and constraints of the problem they are trying to solve.
+
+
+## Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
+
+
+In Python, data types are categorized into two groups based on whether they can be changed after their creation: mutable and immutable.
+
+* __Mutable Data Types:__ These types allow modifications after creation. For example, lists, dictionaries, and sets can have their elements changed, added, or removed without creating a new object.
+
+* __Immutable Data Types:__ These types cannot be altered once created. Any modification creates a new object. Examples include integers, floats, strings, and tuples, where operations like changing a string's character or adding elements to a tuple result in new objects.
+
+<sub>Information modeled using ChatGPT</sub>
