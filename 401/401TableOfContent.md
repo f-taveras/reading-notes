@@ -3,11 +3,11 @@
 ## Notes for module 401
 <details>
 <summary>Pre-Work</summary>
+   <ul>
+   <li> <a href="/reading-notes/401/prep-work/commandLine.html">Command Line</a></li>
 
-   - <a href="/reading-notes/401/prep-work/commandLine.html">Command Line</a>
-   
-   - <a href="/reading-notes/401/prep-work/DSA.html">Data Structures and Algorithms</a>
-
+   <li> <a href="/reading-notes/401/prep-work/DSA.html">Data Structures and Algorithms</a></li>
+</ul>
 </details>
 
 <hr>
