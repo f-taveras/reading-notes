@@ -4,7 +4,8 @@
 <details>
 <summary>Pre-Work</summary>
 
-   - <a href="/reading-notes/401/commandLine.html">Command Line</a>
+   - <a href="/reading-notes/401/prep-work/commandLine.html">Command Line</a>
+   - <a href="/reading-notes/401/prep-work/DSA.html">Command Line</a>
 
 </details>
 
