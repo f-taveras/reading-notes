@@ -9,7 +9,8 @@ Hello folks! I am Felix! I live in New York and I love technology so this class 
 Never forget we are stardust. Within each one of us lies the same particles that have created the universe.
 
 ## Class notes by module:
-* [Code 102](102/102TableOfContent.md)
-* [Code 201](201/201TableOfContent.md)
-* [Code 301](301/301TableOfContent.md)
-* [Code 401](401/401TableOfContent.md)
+* [Code 102 - Intro to Software Development](102/102TableOfContent.md)
+* [Code 201 - Foundation of Software Development](201/201TableOfContent.md)
+* [Code 301 - Intermediate Software Development](301/301TableOfContent.md)
+* [Code 401 - Advance Software Development in Python](401/401TableOfContent.md)
+
