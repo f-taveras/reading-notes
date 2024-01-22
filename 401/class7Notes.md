@@ -1,3 +1,5 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 ## Explain the concept of variable scope in Python and describe the difference between local and global scope. Provide an example illustrating the usage of both.
 
 Variable scope refers to the region or part of the code where a variable can be accessed or modified. __In Python, there are two main types of variable scope:__
@@ -95,3 +97,8 @@ result = simulate_dice_roll(trials, target_number)
 print(f"Probability of rolling a {target_number} over {trials} trials: {result:.4f}")
 ```
 In this code, we use __random.randint(1, 6)__ to simulate a dice roll, and we repeat this process for a large number of trials. The probability is calculated as the ratio of successful outcomes (rolling a 6) to the total number of trials. This provides an estimate of the probability based on the law of large numbers.
+
+
+
+
+<sub>Information modeled using ChatGPT</sub>

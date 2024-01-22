@@ -1,3 +1,5 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 ### What is the basic syntax of Python list comprehension, and how does it differ from using a for loop to create a list? Provide an example of a list comprehension that squares the elements in a given list of integers.
 
 
@@ -70,3 +72,5 @@ Hello!
 Something is happening after the function is called.
 ```
 In this example, __my_decorator__ is a decorator function that adds some behavior before and after the __say_hello__ function is called. When __say_hello__ is decorated with __@my_decorator__, it effectively becomes equivalent to calling __say_hello = my_decorator(say_hello).__
+
+<sub>Information modeled using ChatGPT</sub>
