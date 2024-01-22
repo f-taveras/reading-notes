@@ -19,6 +19,6 @@
 * [Ten Thousand Game 1](class6Notes.md)
 * [Ten Thousand Game 2](class7Notes.md)
 * [Ten Thousand 3](class8Notes.md)
-* [Coming Soon...](holder.md)
+* [Readings: Data Analysis](class11Notes.md)
 * [Coming Soon...](holder.md)
 * [Coming Soon...](holder.md)
