@@ -20,5 +20,5 @@
 * [Ten Thousand Game 2](class7Notes.md)
 * [Ten Thousand 3](class8Notes.md)
 * [Readings: Data Analysis](class11Notes.md)
-* [Coming Soon...](class12Notes.md)
-* [Coming Soon...](holder.md)
+* [Pandas](class12Notes.md)
+* [Linear Regressions](class13Notes.md)
