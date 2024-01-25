@@ -22,3 +22,4 @@
 * [Readings: Data Analysis](class11Notes.md)
 * [Pandas](class12Notes.md)
 * [Linear Regressions](class13Notes.md)
+* [Data Visualization](class14Notes.md)
