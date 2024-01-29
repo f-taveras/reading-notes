@@ -23,3 +23,4 @@
 * [Pandas](class12Notes.md)
 * [Linear Regressions](class13Notes.md)
 * [Data Visualization](class14Notes.md)
+* [Serverless Functions](class16Notes.md)

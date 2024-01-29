@@ -1,3 +1,5 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 # What are the key differences between Matplotlib, Seaborn, and Bokeh libraries in terms of their features and use cases? Provide an example of a specific visualization that is more suitable for each library.
 __Matplotlib:__
 * __Features:__ It's a low-level graphing library, offering fine-grained control over almost every aspect of a plot. It's highly customizable but can be complex for intricate plots.
@@ -37,3 +39,5 @@ The Seaborn Cheat Sheet is an essential quick-reference guide that helps Python 
 * __API Highlights:__ Overview of the most important functions and their parameters.
 * __Examples:__ Sample code snippets that demonstrate common use cases.
 The cheat sheet is beneficial for quickly looking up how to create a specific type of plot or reminding oneself of the nuances in the syntax, which enhances coding efficiency and reduces the need for extensive documentation searches.
+
+<sub>Information modeled using ChatGPT</sub>
