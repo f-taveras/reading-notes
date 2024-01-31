@@ -24,3 +24,5 @@
 * [Linear Regressions](class13Notes.md)
 * [Data Visualization](class14Notes.md)
 * [Serverless Functions](class16Notes.md)
+* [Web Scraping](class17Notes.md)
+* [Cryptography](class18Notes.md)
