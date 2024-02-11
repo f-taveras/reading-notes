@@ -26,3 +26,4 @@
 * [Serverless Functions](class16Notes.md)
 * [Web Scraping](class17Notes.md)
 * [Cryptography](class18Notes.md)
+* [Intro to Django](class26Notes.md)
