@@ -27,3 +27,4 @@
 * [Web Scraping](class17Notes.md)
 * [Cryptography](class18Notes.md)
 * [Intro to Django](class26Notes.md)
+* [Django Models](class27Notes.md)
