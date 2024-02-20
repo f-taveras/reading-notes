@@ -31,3 +31,4 @@
 * [Django CRUD and Forms](class28Notes.md)
 * [Django Custom User](class29Notes.md)
 * [Django REST Framework & Docker](class31Notes.md)
+* [Permissions & Postgresql](class32Notes.md)
