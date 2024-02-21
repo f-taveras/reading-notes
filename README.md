@@ -2,7 +2,6 @@
 
 Hello folks! I am Felix! Welcome to my notes repo! You will find a series of code related notes :)
 
-## This is will be a 
 
 > Feel free to check out my [GitHub Profile](https://github.com/f-taveras)
 
