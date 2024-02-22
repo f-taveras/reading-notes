@@ -33,3 +33,4 @@
 * [Django REST Framework & Docker](class31Notes.md)
 * [Permissions & Postgresql](class32Notes.md)
 * [Authentication & Production Server](class33Notes.md)
+* [API Deployment](class34Notes.md)
