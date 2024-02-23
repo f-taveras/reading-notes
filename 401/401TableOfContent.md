@@ -34,3 +34,4 @@
 * [Permissions & Postgresql](class32Notes.md)
 * [Authentication & Production Server](class33Notes.md)
 * [API Deployment](class34Notes.md)
+* [Graphs](classNotesGraphs.md)

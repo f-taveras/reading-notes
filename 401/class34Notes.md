@@ -1,3 +1,5 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 # What are the key principles to follow when organizing and configuring Django settings for a project, according to the “Django Settings Best Practices” reading?
 
 When organizing and configuring Django settings for a project, the key principles according to the "Django Settings Best Practices" include:
@@ -35,3 +37,5 @@ To implement and configure CORS in a Django project:
 * __Additional Configuration:__ Depending on your needs, you might want to configure additional settings like __CORS_ALLOW_METHODS__ and __CORS_ALLOW_HEADERS__ to control which HTTP methods and headers are allowed in cross-origin requests.
 
 Implementing these practices and configurations will significantly enhance the structure, security, and performance of your Django projects.
+
+<sub>Information modeled using ChatGPT</sub>
