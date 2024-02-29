@@ -1,3 +1,5 @@
+<sub>Think you might be in the wrong place? [Go home!](../README.md)</sub>
+
 # How does lifting state up in a React application help with managing data flow and what are the benefits of using this approach?
 
 Lifting state up in a React application is a common pattern for managing data flow, especially in components that need to share the same data.
@@ -43,3 +45,6 @@ The process of __"Thinking in React"__ involves several key principles:
 * __Add Inverse Data Flow:__ Implement data flowing the other way: from children to parent components, to keep the component hierarchy synchronized.
 
 These principles guide developers through the process of building applications in React by emphasizing a structured approach to component creation, state management, and data flow. This methodology helps in designing more predictable and easier to maintain applications by breaking down the UI into smaller, manageable pieces and focusing on how data moves throughout the application.
+
+
+<sub>Information modeled using ChatGPT</sub>

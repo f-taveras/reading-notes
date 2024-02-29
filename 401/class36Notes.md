@@ -29,3 +29,6 @@
 * __Mock Interviews Participating__: in mock interviews with peers or using platforms that offer mock interview services can provide valuable feedback and help candidates get accustomed to the pressure of real interview situations.
 * __Learn from Mistakes:__ Analyzing and learning from past interview experiences or practice problems where mistakes were made is crucial. Understanding why a mistake was made and how to avoid it in the future can significantly improve performance.
 * __Tailor Your Preparation:__ McDowell also emphasizes the importance of tailoring your preparation to the company and role you're interviewing for, as different companies may prioritize different skills or types of problems
+
+
+<sub>Information modeled using ChatGPT</sub>

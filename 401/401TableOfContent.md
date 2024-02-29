@@ -37,3 +37,4 @@
 * [Graphs](classNotesGraphs.md)
 * [DSA Review](class36Notes.md)
 * [React 2](class38Notes.md)
+* [React 3](class39Notes.md)
