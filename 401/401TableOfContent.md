@@ -9,6 +9,12 @@
    <li> <a href="/reading-notes/401/prep-work/DSA.html">Data Structures and Algorithms</a></li>
 </ul>
 </details>
+<details>
+<summary>Reflections</summary>
+   <ul>
+      <li> <a href="/401/reflections/ethics.md">Ethics</a></li>
+   </ul>
+</details>
 
 <hr>
 
