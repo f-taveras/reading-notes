@@ -12,7 +12,7 @@
 <details>
 <summary>Reflections</summary>
    <ul>
-      <li> <a href="/401/reflections/ethics.md">Ethics</a></li>
+      <li> <a href="/reflections/ethics.md">Ethics</a></li>
    </ul>
 </details>
 
