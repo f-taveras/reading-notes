@@ -45,3 +45,4 @@
 * [React 2](class38Notes.md)
 * [React 3](class39Notes.md)
 * [React 4](class41Notes.md)
+* [Pythonisms](class42Notes.md)
