@@ -12,7 +12,7 @@
 <details>
 <summary>Reflections</summary>
    <ul>
-      <li> <a href="/reading-notes/401/reflections/ethics.html">Ethics</a></li>
+      <li> <a href="https://f-taveras.github.io/reading-notes/401/reflections/ethics.html">Ethics</a></li>
    </ul>
 </details>
 
